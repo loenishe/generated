@@ -1,4 +1,4 @@
-module github.com/loenishe/generated
+module github.com/loenishe/generated/v2
 
 go 1.19
 
