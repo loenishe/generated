@@ -4,7 +4,7 @@
 // - protoc             v3.21.10
 // source: com/daml/ledger/api/v1/admin/metering_report_service.proto
 
-package admin
+package v1
 
 import (
 	context "context"

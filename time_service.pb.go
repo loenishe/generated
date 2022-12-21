@@ -7,7 +7,7 @@
 // 	protoc        v3.21.10
 // source: com/daml/ledger/api/v1/testing/time_service.proto
 
-package testing
+package v1
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
